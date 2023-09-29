@@ -32,7 +32,7 @@ void Bankomat::Input()
 void Bankomat::takeMoney()
 {
     int take;
-    cout << "vasha cifra dolshna bit 10!" << endl;
+    cout << "vasha cifra dolshna bit kratna 10!" << endl;
     do {
         cout << "Input your sum:";
         cin >> take;
